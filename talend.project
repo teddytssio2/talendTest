@@ -494,4 +494,5 @@
     <migrationTask xmi:id="_1wL0HtguEeirl_NJXVl0MQ" id="org.talend.testcontainer.core.ui.migration.TestCaseParentVersionMigrationTask" breaks="6.1.1" version="6.1.1" status="ok"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_1QYRQNguEeirl_NJXVl0MQ" login="teddy.lequette@hardis.fr" password="D41D8CD98F00B204E9800998ECF8427E"/>
+  <TalendProperties:User xmi:id="_ENXwwNtrEeirGKs2p9SZrQ" login="jobbuilder@talend.com"/>
 </xmi:XMI>
